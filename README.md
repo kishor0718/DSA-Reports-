@@ -12,4 +12,4 @@ Ye repository meri Data Structures & Algorithms (DSA) ki reports ka collection h
 Data Structures, Algorithms, Problem Solving
 
 ## Contact
-Kishor Kumar Jha | [k.k.jha1480@gmail.com] | [https://www.linkedin.com/in/kishor-kumar-jha-005017290?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+Kishor Kumar Jha | [k.k.jha1480@gmail.com] | [https://www.linkedin.com/in/kishor-kumar-jha-005017290]
