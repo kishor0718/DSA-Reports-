@@ -1,6 +1,6 @@
 # DSA Reports
 
-Ye repository meri Data Structures & Algorithms (DSA) ki reports ka collection hai.
+"This repository contains my Data Structures & Algorithms (DSA) reports."
 
 ## Contents
 - DSA_report_1: [AI Based Multi-sector Data Exchange Platform]
